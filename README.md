@@ -16,7 +16,4 @@
 ![Framework](https://skillicons.dev/icons?i=spring&theme=light)
 
 #### 编码工具
-![CodeTools](https://skillicons.dev/icons?i=vscode,vim,clion,idea,pycharm,androidstudio,arduino&theme=light)
-
-#### 其它工具
-![CodeTools](https://skillicons.dev/icons?i=ps,ai,pr,blender&theme=light)
+![CodeTools](https://skillicons.dev/icons?i=vscode,vim,clion,idea,pycharm,androidstudio&theme=light)
