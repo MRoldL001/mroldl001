@@ -7,7 +7,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRoldL001&show_icons=true&theme=shadow_green)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light" style="border-radius:10px;" />
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 
 ### Programming Languages
 ![Language](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,html,css&theme=light)
