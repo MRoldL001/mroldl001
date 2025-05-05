@@ -1,5 +1,5 @@
 ## Hi👋🏻, Winter Lee(MRoldL001) is here (≧ω≦)/
-- 🎓 Pursuing a BEng in SE
+- 🎓 Pursuing a BEng in Software Engineering(SE)
 - 👨🏻‍💻 Algorithm competition contestant
 - 🎨 Graphic design enthusiast
 - ☯️ Touhou Project fans
