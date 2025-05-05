@@ -5,11 +5,11 @@
 
 [![mr_blog](https://img.shields.io/badge/----MR__Blog-268785?style=flat-square&logo=wordpress&logoColor=ffffff)](http://www.mroldl001.top) [![zhihu](https://img.shields.io/badge/知乎-0084FF?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/mroldl001) [![bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/244751581) [![x](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/MRoldL001) [![steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/MRoldL001)
 
-#### Programming Languages
+### Programming Languages
 ![Language](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,html,css&theme=light)
 
-#### Technical Frameworks & Engines 
+### Technical Frameworks & Engines 
 ![TFE](https://skillicons.dev/icons?i=godot,spring&theme=light)
 
-#### Research Interests
-- Image Relighting
+### Research Interests
+- **Image Relighting**
