@@ -8,8 +8,8 @@
 ### Programming Languages
 ![Language](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,html,css&theme=light)
 
-### Technical Frameworks & Engines 
-![TFE](https://skillicons.dev/icons?i=godot,spring&theme=light)
+### Technical Frameworks, Libraries & Engines
+![TFE](https://skillicons.dev/icons?i=godot,spring,pytorch&theme=light)
 
 ### Research Interests
 - **Image Relighting**
