@@ -1,8 +1,7 @@
 ## Hello, MRoldL001🍵 is here ( •̀ ω •́ )y
-- 新人开发者
-- 准ACMer，抑或是梦想家
-- 平面设计爱好者
-- 在尝试改变现状的车万人
+- Algorithm competition contestant
+- Graphic design enthusiast
+- Touhou Project fans
 
 [![mr_blog](https://img.shields.io/badge/----MR__Blog-268785?style=flat-square&logo=wordpress&logoColor=ffffff)](http://www.mroldl001.top) [![zhihu](https://img.shields.io/badge/知乎-0084FF?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/mroldl001) [![bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/244751581) [![x](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=ffffff)](https://x.com/MRoldL001) [![steam](https://img.shields.io/badge/Steam-000000?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/MRoldL001)
 
