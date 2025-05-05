@@ -1,4 +1,4 @@
-## Hello, MRoldL001🍵 is here ( •̀ ω •́ )y
+## Hi, MRoldL001🍵 is here ( •̀ ω •́ )y
 - Algorithm competition contestant
 - Graphic design enthusiast
 - Touhou Project fans
