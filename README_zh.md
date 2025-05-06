@@ -14,7 +14,7 @@ Read this in [English](README.md)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRoldL001&show_icons=true&theme=shadow_green)
 #### 使用最多的计算机语言
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green)
-#### 我的贡献曲线图
+#### 贡献曲线图
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 ---
 ### 🧰 可以使用的计算机语言
