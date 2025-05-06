@@ -1,4 +1,5 @@
 ## Hi👋🏻, Winter Lee(MRoldL001) is here (≧ω≦)/
+阅读[简体中文](README_zh.md)版本
 - 🎓 Pursuing a BEng in Software Engineering(SE)
 - 👨🏻‍💻 Algorithm competition contestant
 - 🎨 Graphic design enthusiast
