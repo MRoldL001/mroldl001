@@ -21,4 +21,4 @@ Read this in [English](README.md)
 ![TFE](https://skillicons.dev/icons?i=godot,spring,pytorch&theme=light)
 
 ### 🔍 研究方向
-- **Image Relighting 🌇**
+- **Image Relighting(图像重光照) 🌇**
