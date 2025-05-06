@@ -1,5 +1,5 @@
 ## 你好呀👋🏻, 这里是李文涛(MRoldL001)的自述页(≧ω≦)/
-Read this with [English](README.md)
+Read this in [English](README.md)
 - 🎓 软件工程专业本科在读
 - 👨🏻‍💻 算法竞赛选手
 - 🎨 平面设计爱好者
