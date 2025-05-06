@@ -17,10 +17,10 @@ Read this in [English](README.md)
 #### 贡献曲线图
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 ---
-### 🧰 可以使用的计算机语言
+### 🧰 能够使用的计算机语言
 ![Language](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,html,css&theme=light)
 
-### ⚙️ 可以使用的框架、引擎与库
+### ⚙️ 能够使用的框架、引擎与库
 ![TFE](https://skillicons.dev/icons?i=godot,spring,pytorch&theme=light)
 
 ### 🔍 研究方向
