@@ -6,7 +6,8 @@
 - ☯️ Touhou Project fans
 - 🔬 Currently conducting research in *Image Relighting*
 
-[![mr_blog](https://img.shields.io/badge/----MR__Blog-268785?style=flat-square&logo=wordpress&logoColor=ffffff)](http://www.mroldl001.top) [![zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/mroldl001) [![bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/244751581) [![behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=ffffff)](https://www.behance.net/mroldl001)
+[![mr_blog](https://img.shields.io/badge/----MR__Blog-268785?style=flat-square&logo=wordpress&logoColor=ffffff)](http://www.mroldl001.top) [![zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/mroldl001)
+[![stf](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/24539719/mroldl001) [![bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/244751581) [![behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=ffffff)](https://www.behance.net/mroldl001)
 [![Email](https://img.shields.io/badge/Email-D0104C?style=flat-square&logo=Mail.Ru&logoColor=ffffff)](mailto:kirakira@mroldl001.top)
  
 ---
