@@ -11,8 +11,8 @@
 [![Email](https://img.shields.io/badge/Email-D0104C?style=flat-square&logo=Mail.Ru&logoColor=ffffff)](mailto:kirakira@mroldl001.top)
  
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRoldL001&show_icons=true&theme=shadow_green)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRoldL001&show_icons=true&theme=shadow_green&v=1)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&v=1)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 ---
 ### 🧰 Programming Languages
