@@ -22,7 +22,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 ---
 ### 🧰 能够使用的计算机语言
-![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,python,html,css&theme=light)
+![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,python,html,css,javascript&theme=light)
 
 ### ⚙️ 能够使用的框架、引擎与库
 ![TFE](https://skillicons.dev/icons?i=godot,spring,pytorch&theme=light)
