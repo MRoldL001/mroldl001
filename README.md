@@ -4,7 +4,7 @@
 ## Hi👋🏻, Winter Lee(MRoldL001) is here (≧ω≦)/
 
 - 🎓 Pursuing a B.Eng. in Software Engineering(SE)
-- 👨🏻‍💻 Algorithm competition contestant
+- 👨🏻‍💻 Algorithm competition contestant(🏆Bronze Medal, CCPC Gansu Site, GSCPC, 2024)
 - 🎨 Graphic design enthusiast
 - ☯️ Touhou Project fans
 - 🔬 Currently conducting research in *Image Relighting*
@@ -26,3 +26,9 @@
 
 ### 🔍 Research Interests
 - **Image Relighting 🌇**
+
+### 🏆 Honors & Awards
+- 🥉 **Bronze Medal(Team Leader)**, China Collegiate Programming Contest (CCPC) – Gansu Site(GSCPC), 2024
+- 🏆 **Second Prize**, C/C++ Track, University Group B, 2024 Lan Qiao Cup Provincial Finals
+- 🏆 **Second Prize**, C/C++ Track, University Group B, 2025 Lan Qiao Cup Provincial Finals
+  
