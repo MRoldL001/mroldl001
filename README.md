@@ -19,7 +19,7 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 ---
 ### 🧰 Programming Languages
-![Language](https://skillicons.dev/icons?i=c,cpp,java,kotlin,python,html,css&theme=light)
+![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,python,html,css&theme=light)
 
 ### ⚙️ Technical Frameworks, Libraries & Engines
 ![TFE](https://skillicons.dev/icons?i=godot,spring,pytorch&theme=light)
