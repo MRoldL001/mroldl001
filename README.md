@@ -29,6 +29,6 @@
 
 ### 🏆 Honors & Awards
 - 🥉 **Bronze Medal(Team Leader)**, China Collegiate Programming Contest (CCPC) – Gansu Site(GSCPC), 2024
-- 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2025
+- 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2024
 - 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2025
   
