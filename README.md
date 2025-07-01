@@ -4,7 +4,7 @@
 ## Hi👋🏻, Winter Lee(MRoldL001) is here (≧ω≦)/
 
 - 🎓 Pursuing a B.Eng. in Software Engineering(SE)
-- 👨🏻‍💻 Algorithm competition contestant(🏆Bronze Medal, CCPC Gansu Site, GSCPC, 2024)
+- 👨🏻‍💻 Algorithm competition contestant(🥉Bronze Medal, CCPC Gansu Site, GSCPC, 2024)
 - 🎨 Graphic design enthusiast
 - ☯️ Touhou Project fans
 - 🔬 Currently conducting research in *Image Relighting*
