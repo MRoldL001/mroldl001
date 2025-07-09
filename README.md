@@ -4,10 +4,10 @@
 ## Hi👋🏻, MRoldL001(Wentao Li) is here (≧ω≦)/
 
 - 🎓 Pursuing a B.Eng. in Software Engineering(SE)
-- 👨🏻‍💻 Algorithm competition contestant(🥉Bronze Medal, CCPC Gansu Site, GSCPC, 2024)
+- 👨🏻‍💻 Algorithm competition contestant(🥉Bronze Medal, Team Leader, CCPC Gansu Site, GSCPC, 2024)
 - 🎨 Graphic design enthusiast
 - ☯️ Touhou Project fans
-- 🔬 Currently conducting research in *Image Relighting*
+- 🔬 Currently conducting research in *Relighting*
 
 [![mr_blog](https://img.shields.io/badge/----MR__Blog-268785?style=flat-square&logo=wordpress&logoColor=ffffff)](http://www.mroldl001.top) [![zhihu](https://img.shields.io/badge/Zhihu-0084FF?style=flat-square&logo=zhihu&logoColor=ffffff)](https://www.zhihu.com/people/mroldl001)
 [![stf](https://img.shields.io/badge/StackOverflow-FE7A16?style=flat-square&logo=stackoverflow&logoColor=ffffff)](https://stackoverflow.com/users/24539719/mroldl001) [![bilibili](https://img.shields.io/badge/Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=ffffff)](https://space.bilibili.com/244751581) [![behance](https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=ffffff)](https://www.behance.net/mroldl001)
@@ -25,7 +25,7 @@
 ![TFE](https://skillicons.dev/icons?i=godot,spring,pytorch&theme=light)
 
 ### 🔍 Research Interests
-- **Image Relighting 🌇**
+- **Relighting 🌇**
 
 ### 🏆 Honors & Awards
 - 🥉 **Bronze Medal(Team Leader)**, China Collegiate Programming Contest (CCPC) – Gansu Site(GSCPC), 2024
