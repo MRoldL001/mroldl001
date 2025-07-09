@@ -1,7 +1,7 @@
 > [!NOTE]
 > 阅读[简体中文](README_zh.md)版本
 
-## Hi👋🏻, Winter Lee(MRoldL001) is here (≧ω≦)/
+## Hi👋🏻, MRoldL001(Wentao Li) is here (≧ω≦)/
 
 - 🎓 Pursuing a B.Eng. in Software Engineering(SE)
 - 👨🏻‍💻 Algorithm competition contestant(🥉Bronze Medal, CCPC Gansu Site, GSCPC, 2024)
