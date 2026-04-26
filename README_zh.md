@@ -25,20 +25,25 @@
 ---
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=+%F0%9F%A7%B0+能够使用的计算机语言)](https://git.io/typing-svg)
+
 ![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,java,python,html,css,javascript&theme=light)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=+%E2%9A%99%EF%B8%8F+能够使用的框架、引擎与库)](https://git.io/typing-svg)
+
 ![TFE](https://skillicons.dev/icons?i=godot,spring,vue,pytorch&theme=light)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=+%F0%9F%92%BE+使用的计算机操作系统)](https://git.io/typing-svg)
+
 ![OS](https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=light)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=+%F0%9F%94%8D+研究方向)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=2&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=+%F0%9F%94%8D+研究方向)](https://git.io/typing-svg)
+
 - **Relighting 🌇**
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=CFAE00&multiline=true&repeat=false&width=435&lines=+%F0%9F%8F%86+荣誉与奖项)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=221&duration=2000&pause=3000&color=CFAE00&multiline=true&repeat=false&width=435&lines=+%F0%9F%8F%86+荣誉与奖项)](https://git.io/typing-svg)
+
 - 🥉 **铜奖(队长)**, 中国大学生程序设计竞赛(CCPC) – 甘肃站(GSCPC), 2024
 - 🏆 **二等奖**, C/C++组, 大学生B组, 蓝桥杯甘肃省赛, 2024
 - 🏆 **二等奖**, C/C++组, 大学生B组, 蓝桥杯甘肃省赛, 2025
