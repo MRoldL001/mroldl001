@@ -1,7 +1,7 @@
 > [!NOTE]
 > Read this in [English](README.md)
 
-## 你好呀👋🏻, 这里是MRoldL001(李文涛)的自述页(≧ω≦)/
+## 你好👋🏻, 这里是MRoldL001(李文涛)的自述页(｀Δ´)ゞ
 
 - 🎓 软件工程专业本科在读
 - 👨🏻‍💻 算法竞赛选手(🥉铜奖, 队长, CCPC甘肃站(GSCPC), 2024)
@@ -14,6 +14,7 @@
 [![Email](https://img.shields.io/badge/电子邮件-D0104C?style=flat-square&logo=Mail.Ru&logoColor=ffffff)](mailto:kirakira@mroldl001.top)
  
 ---
+
 #### 我的GitHub统计记录
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRoldL001&show_icons=true&theme=shadow_green&v=2)
 #### 使用最多的计算机语言
