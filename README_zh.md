@@ -25,7 +25,10 @@
 ![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,python,html,css,javascript&theme=light)
 
 ### ⚙️ 能够使用的框架、引擎与库
-![TFE](https://skillicons.dev/icons?i=godot,springboot,vue,pytorch&theme=light)
+![TFE](https://skillicons.dev/icons?i=godot,spring,vue,pytorch&theme=light)
+
+### 💾 使用的计算机操作系统
+![TFE](https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=light
 
 ### 🔍 研究方向
 - **Relighting(重光照) 🌇**
