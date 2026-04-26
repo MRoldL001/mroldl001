@@ -36,7 +36,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=F9D200&multiline=true&repeat=false&width=435&lines=%F0%9F%8F%86+Honors+%26+Awards)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=CFAE00&multiline=true&repeat=false&width=435&lines=%F0%9F%8F%86+Honors+%26+Awards)](https://git.io/typing-svg)
 - 🥉 **Bronze Medal(Team Leader)**, China Collegiate Programming Contest (CCPC) – Gansu Site(GSCPC), 2024
 - 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2024
 - 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2025
