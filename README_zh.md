@@ -36,7 +36,7 @@
 
 ![OS](https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=light)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=2&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=+%F0%9F%94%8D+研究方向)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=+%F0%9F%94%8D+研究方向)](https://git.io/typing-svg)
 
 - **Relighting 🌇**
 
