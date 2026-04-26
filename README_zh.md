@@ -25,7 +25,7 @@
 ![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,python,html,css,javascript&theme=light)
 
 ### ⚙️ 能够使用的框架、引擎与库
-![TFE](https://skillicons.dev/icons?i=godot,spring,pytorch&theme=light)
+![TFE](https://skillicons.dev/icons?i=godot,springboot,vue,pytorch&theme=light)
 
 ### 🔍 研究方向
 - **Relighting(重光照) 🌇**
