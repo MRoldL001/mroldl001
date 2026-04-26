@@ -21,7 +21,7 @@
 ### 🧰 Programming Languages
 ![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,java,python,html,css,javascript&theme=light)
 
-### ⚙️ Frameworks,Engines,Libraries
+### ⚙️ Frameworks, Engines, Libraries
 ![TFE](https://skillicons.dev/icons?i=godot,spring,vue,pytorch&theme=light)
 
 ### 💾 Desktop OS
