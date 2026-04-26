@@ -28,7 +28,7 @@
 ![TFE](https://skillicons.dev/icons?i=godot,spring,vue,pytorch&theme=light)
 
 ### 💾 使用的计算机操作系统
-![TFE](https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=light
+![OS](https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=light)
 
 ### 🔍 研究方向
 - **Relighting(重光照) 🌇**
