@@ -38,7 +38,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=CFAE00&multiline=true&repeat=false&width=435&lines=+%F0%9F%8F%86+获奖经历)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=CFAE00&multiline=true&repeat=false&width=435&lines=+%F0%9F%8F%86+荣誉与奖项)](https://git.io/typing-svg)
 - 🥉 **铜奖(队长)**, 中国大学生程序设计竞赛(CCPC) – 甘肃站(GSCPC), 2024
 - 🏆 **二等奖**, C/C++组, 大学生B组, 蓝桥杯甘肃省赛, 2024
 - 🏆 **二等奖**, C/C++组, 大学生B组, 蓝桥杯甘肃省赛, 2025
