@@ -21,21 +21,22 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%F0%9F%A7%B0+Programming+Languages)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%F0%9F%A7%B0+Programming+Languages)](https://git.io/typing-svg)
 ![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,java,python,html,css,javascript&theme=light)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%E2%9A%99%EF%B8%8F+Frameworks%2C+Engines%2C+Libraries)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%E2%9A%99%EF%B8%8F+Frameworks%2C+Engines%2C+Libraries)](https://git.io/typing-svg)
 ![TFE](https://skillicons.dev/icons?i=godot,spring,vue,pytorch&theme=light)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%F0%9F%92%BE+Desktop+OS)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=21&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%F0%9F%92%BE+Desktop+OS)](https://git.io/typing-svg)
 ![OS](https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=light)
 
-### 🔍 Research Interests
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%F0%9F%94%8D+Research+Interests)](https://git.io/typing-svg)
 - **Relighting 🌇**
 
 ---
 
-### 🏆 Honors & Awards
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=F9D200&multiline=true&repeat=false&width=435&lines=%F0%9F%8F%86+Honors+%26+Awards)](https://git.io/typing-svg)
 - 🥉 **Bronze Medal(Team Leader)**, China Collegiate Programming Contest (CCPC) – Gansu Site(GSCPC), 2024
 - 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2024
 - 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2025
