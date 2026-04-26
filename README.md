@@ -21,7 +21,7 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?MI_TRANS_ID-7=Fira+Code&weight=800&size=25&MI_TRANS_ID-11=%E6%AD%A3%E5%B8%B8%E7%9A%84&duration=2000&pause=3000&color=FF0707&multiline=true&repeat=false&width=435&lines=%F0%9F%A7%B0+Programming+Languages)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=25&duration=2000&pause=3000&color=FF0707&multiline=true&repeat=false&width=435&lines=%F0%9F%A7%B0+Programming+Languages)](https://git.io/typing-svg)
 ![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,java,python,html,css,javascript&theme=light)
 
 ### ⚙️ Frameworks, Engines, Libraries
