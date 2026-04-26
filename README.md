@@ -24,7 +24,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%F0%9F%A7%B0+Programming+Languages)](https://git.io/typing-svg)
 ![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,java,python,html,css,javascript&theme=light)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%F0%9F%A7%B0+Programming+Languages)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%E2%9A%99%EF%B8%8F+Frameworks%2C+Engines%2C+Libraries)](https://git.io/typing-svg)
 ![TFE](https://skillicons.dev/icons?i=godot,spring,vue,pytorch&theme=light)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=22&duration=2000&pause=3000&color=007A01&multiline=true&repeat=false&width=435&lines=%F0%9F%92%BE+Desktop+OS)](https://git.io/typing-svg)
