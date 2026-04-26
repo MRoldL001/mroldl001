@@ -22,7 +22,10 @@
 ![Language](https://skillicons.dev/icons?i=c,cpp,kotlin,python,html,css,javascript&theme=light)
 
 ### ⚙️ Technical Frameworks, Libraries & Engines
-![TFE](https://skillicons.dev/icons?i=godot,spring,pytorch&theme=light)
+![TFE](https://skillicons.dev/icons?i=godot,spring,vue,pytorch&theme=light)
+
+### 💾 Desktop OS
+![OS](https://skillicons.dev/icons?i=windows,arch,debian,ubuntu&theme=light)
 
 ### 🔍 Research Interests
 - **Relighting 🌇**
