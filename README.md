@@ -17,7 +17,7 @@
 ---
 
 <!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRoldL001&show_icons=true&theme=shadow_green&v=2)-->
-[//]:![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&v=3)
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&v=2)-->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 
 ---
