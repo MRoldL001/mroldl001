@@ -16,7 +16,7 @@
  
 ---
 
-<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MRoldL001&show_icons=true&theme=shadow_green&v=2)-->
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MRoldL001)](https://github.com/stats-organization/github-stats-extended)
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&v=2)-->
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 
