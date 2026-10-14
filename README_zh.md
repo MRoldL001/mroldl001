@@ -26,6 +26,8 @@
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 #### 3D 贡献图
 ![profile-3d-contrib](profile-3d-contrib/profile-season-animate.svg)
+### 奖杯
+[![trophy](https://github-profile-trophy.vercel.app/?username=MRoldL001)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
