@@ -22,8 +22,8 @@
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MRoldL001&layout=compact&theme=shadow_green&show_icons=true&v=3)
 #### 使用最多的计算机语言
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&show_icons=true&v=3)
-#### 贡献曲线图
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
+#### 活跃时间
+![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRoldL001&utcOffset=8&animation=load&theme=github)
 #### 3D 贡献图
 ![profile-3d-contrib](profile-3d-contrib/profile-season-animate.svg)
 ### 奖杯
