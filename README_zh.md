@@ -18,8 +18,8 @@
 
 #### 我的GitHub统计记录
 [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MRoldL001)](https://github.com/stats-organization/github-stats-extended)
-<!--#### 使用最多的计算机语言
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&v=3)-->
+#### 使用最多的计算机语言
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&v=3)
 #### 贡献曲线图
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
 
