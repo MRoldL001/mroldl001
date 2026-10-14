@@ -22,6 +22,8 @@
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&v=3)
 #### 贡献曲线图
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
+#### 3D 贡献图
+![profile-3d-contrib](profile-3d-contrib/profile-season-animate.svg)
 
 ---
 
