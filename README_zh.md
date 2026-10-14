@@ -1,7 +1,7 @@
 > [!NOTE]
 > Read this in [English](README.md)
 
-![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MRoldL001%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MRoldL001%20render&fontSize=90&fontColor=FFFFFF)
 
 ## 你好👋🏻, 这里是MRoldL001(李文涛)的自述页(｀Δ´)ゞ
 
