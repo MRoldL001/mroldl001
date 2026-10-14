@@ -1,6 +1,8 @@
 > [!NOTE]
 > 阅读[简体中文](README_zh.md)版本
 
+![header](https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=MRoldL001&fontSize=90&fontColor=000000)
+
 ## Hi👋🏻, MRoldL001(Winter Lee) is here (｀Δ´)ゞ
 
 - 🎓 Pursuing a B.Eng. in Software Engineering(SE)
@@ -16,10 +18,11 @@
  
 ---
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MRoldL001)](https://github.com/stats-organization/github-stats-extended)
-<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&v=2)-->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MRoldL001&theme=github-light)
+![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=MRoldL001&layout=compact&theme=shadow_green&show_icons=true&v=3)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=MRoldL001&layout=compact&theme=shadow_green&show_icons=true&v=3)
+![productive-time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MRoldL001&utcOffset=8&animation=load&theme=github)
 ![profile-3d-contrib](profile-3d-contrib/profile-season-animate.svg)
+![trophy](https://github-profile-trophy-1.vercel.app/?username=MRoldL001&no-frame=true&theme=flat)
 
 ---
 
