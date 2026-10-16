@@ -55,3 +55,12 @@
 - 🏆 **二等奖**, C/C++组, 大学生B组, 蓝桥杯甘肃省赛, 2024
 - 🏆 **二等奖**, C/C++组, 大学生B组, 蓝桥杯甘肃省赛, 2025
 - 🏆 **三等奖**, C/C++组, 大学生B组, 蓝桥杯甘肃省赛, 2026
+
+---
+
+关于 M-Foundry 产品集，点击图片查看更多：
+<div align="center">
+  <a href="https://M-Foundry.github.io">
+    <img title="" src="https://raw.githubusercontent.com/M-Foundry/.github/main/profile/mftitle.png" alt="" width="180" />
+  </a>
+</div>
