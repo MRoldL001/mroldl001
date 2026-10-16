@@ -54,4 +54,10 @@
 - 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2024
 - 🏆 **Second Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2025
 - 🏆 **Third Prize**, C/C++ Track, University Group B, Lan Qiao Cup Gansu Provincial Finals, 2026
-  
+
+---
+
+For the M-Foundry Product Collection, click the image to learn more.
+<a href="https://M-Foundry.github.io">
+  <img title="" src="mftitle.png" alt="" width="180" />
+</a>
