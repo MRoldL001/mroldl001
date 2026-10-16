@@ -58,7 +58,7 @@
 
 ---
 
-关于 M-Foundry 产品集，点击图片查看更多：
+关于 M·工坊 产品集，点击图片查看更多：
 <div align="center">
   <a href="https://M-Foundry.github.io">
     <img title="" src="https://raw.githubusercontent.com/M-Foundry/.github/main/profile/mftitle.png" alt="" width="180" />
