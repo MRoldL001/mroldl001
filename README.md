@@ -58,6 +58,8 @@
 ---
 
 For the M-Foundry Product Collection, click the image to learn more.
-<a href="https://M-Foundry.github.io">
-  <img title="" src="https://raw.githubusercontent.com/M-Foundry/.github/main/profile/mftitle.png" alt="" width="180" />
-</a>
+<div align="center">
+  <a href="https://M-Foundry.github.io">
+    <img title="" src="https://raw.githubusercontent.com/M-Foundry/.github/main/profile/mftitle.png" alt="" width="180" />
+  </a>
+</div>
